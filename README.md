@@ -18,9 +18,12 @@
 ---
 ## Структура файлов
 ```
-Project_Module.h   - заголовочный файл
-Project_Main.cpp   - точка входа
-Project_Module.cpp - реализация логики
+Project_Module.h          - заголовочный файл
+Project_Main.cpp          - точка входа
+Project_Module.cpp        - реализация логики
+FinalListOfEntries.txt    - файл для сохранения списка задач
+OriginalListOfEntries.txt - файл для загрузки списка задач в память программы
+README.md                 - описание проекта
 ```
 ---
 ## Компиляция и запуск: <br>
