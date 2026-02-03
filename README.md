@@ -29,7 +29,7 @@ README.md                 - описание проекта
 ## Компиляция и запуск: <br>
 ### Компиляция:<br>
 ```
-g++ Project_Main.cpp Project_Module.cpp g++ -o ./program.exe
+g++ Project_Main.cpp Project_Module.cpp -o ./program.exe
 ```
 ### Запуск:<br>
 ```
